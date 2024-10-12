@@ -24,6 +24,7 @@ h2 {
 }
 
 nav ul {
+    border-bottom: 2px solid black;
     list-style: none;
     padding: 0;
     display: flex;
@@ -114,3 +115,25 @@ footer {
   
     bottom: 0;
 }
+/* .icon-link {
+    text-decoration: none;
+    color: #0077B5; /* LinkedIn blue */ 
+  /*  font-size: 45px;
+    display: inline-flex;
+    align-items: center;
+    padding: 8px 12px;
+    border: 1px solid #181919;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.icon-link i {
+    margin-right: 8px;
+    font-size: 25px;
+}
+
+.icon-link:hover {
+    background-color: #0077B5;
+    color: #fff;
+}
+ */
